@@ -1,0 +1,29 @@
+{
+   "date":"1/22/20",
+   "results":[
+      {
+         "countrycode":"US",
+         "countrylabel":"USA",
+         "showcountrylabelcases":"no",
+         "labelpositioncases":"",
+         "showcountrylabeldeaths":"",
+         "labelpositiondeaths":"",
+         "showcountrylabelrecovered":"no",
+         "labelpositionrecovered":"",
+         "casesoverride":"",
+         "deathsoverride":"",
+         "recoveredoverride":"",
+         "emergencycasesoverride":"",
+         "emergencydeathsoverride":"",
+         "total_cases":"0",
+         "total_deaths":"0",
+         "total_recovered":"0",
+         "total_affected_countries":"50",
+         "total_active_cases":"0",
+         "total_unresolved":"34",
+         "total_serious_cases":"90",
+         "total_new_cases_today":"90",
+         "total_new_deaths_today":"90"
+      }
+   ]
+}
